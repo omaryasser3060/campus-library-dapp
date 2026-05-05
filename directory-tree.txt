@@ -1,0 +1,37 @@
+campus_library_dapp/
+├── app/
+│   ├── terminal.py
+│   └── web_server.py
+├── assets/
+├── contracts/
+│   ├── LibraryCoin.sol
+│   └── LibraryRegistry.sol
+├── data/
+│   ├── balances_snapshot.csv
+│   └── snapshot.csv
+├── frontend/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── api.js
+│   │   └── ui.js
+│   ├── admin.html
+│   ├── dashboard.html
+│   └── index.html
+├── scripts/
+│   ├── auto_setup.py
+│   ├── background_jobs.py
+│   └── security_tests.py
+├── uploads/
+│   ├── images/
+│   ├── pdfs/
+│   ├── 0571112fde21891_book5.jpeg
+│   ├── 08f9bee377498db_book1.jpeg
+│   ├── 3df79d34abbca99_dummy.pdf
+│   ├── 90007a2258e026d_book2.jpeg
+│   ├── b4b158152321d59_book3.jpeg
+│   └── c4be0ac94321a78_book4.jpeg
+├── README.md
+├── config.py
+├── directory-tree.txt
+└── requirements.txt
