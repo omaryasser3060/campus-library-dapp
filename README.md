@@ -70,14 +70,31 @@ campus_library_dapp/
 │   ├── terminal.py
 │   └── web_server.py
 ├── assets/
+│   ├── Admin Login-Page.jpeg
+│   ├── admin-add-book.jpeg
+│   ├── admin-batch-add.png
+│   ├── admin-dashboard.jpeg
+│   ├── admin-home-page.png
+│   ├── admin-manage-books-modal.jpeg
+│   ├── admin-security-test.jpeg
+│   ├── admin-system-controls.jpeg
+│   ├── admin-transfer-ownership.jpeg
+│   ├── user-balance-checker.jpeg
+│   ├── user-borrowed-books.jpeg
+│   ├── user-full-catalog.jpeg
+│   └── user-home-page.png
 ├── contracts/
 │   ├── LibraryCoin.sol
 │   └── LibraryRegistry.sol
 ├── data/
+│   ├── balances_snapshot.csv
+│   └── snapshot.csv
 ├── frontend/
-│   ├── css/style.css
-│   ├── js/api.js
-│   ├── js/ui.js
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   ├── api.js
+│   │   └── ui.js
 │   ├── admin.html
 │   ├── dashboard.html
 │   └── index.html
@@ -86,8 +103,11 @@ campus_library_dapp/
 │   ├── background_jobs.py
 │   └── security_tests.py
 ├── uploads/
+│   ├── images/
+│   ├── pdfs/
+├── README.md
 ├── config.py
-├── config.json
+├── directory-tree.txt
 └── requirements.txt
 ```
 
@@ -176,5 +196,5 @@ python scripts/security_tests.py
 
 ## 👨‍💻 Authors
 
-**Omar Yasser**
+**Omar Yasser** |
 **Youssef Atef**
